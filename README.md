@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I’m Isaac. As a passionate developer at ScoutDecision, I specialize in creating cutting-edge Football Scouting Software designed to empower football agents and coaches with advanced analytics and intuitive interfaces. Our mission is to revolutionize the football industry by providing robust Software for Football Agents, ensuring they have the tools needed to discover and nurture talent. Additionally, we offer Football Software for Coaches that enhances team performance through strategic insights. Our commitment to innovation and excellence in the football tech space is unwavering. Check out our football app here: [ScoutDecision](https://www.scoutdecision.com/).
 <!--
 **Block99block99/Block99block99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
